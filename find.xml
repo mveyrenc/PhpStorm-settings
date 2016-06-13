@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle/Manager/CampagneManager.php'" />
     <option name="defaultScopeName" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle/Manager/CampagneManager.php'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle/Manager/CampagneManager.php'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
