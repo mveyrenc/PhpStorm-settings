@@ -1,5 +1,6 @@
 <inspections profile_name="Symfony" version="1.0">
   <option name="myName" value="Symfony" />
+  <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="CODESIZE" value="true" />
     <option name="CONTROVERSIAL" value="true" />
