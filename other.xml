@@ -49,10 +49,13 @@
           <State>
             <id>PHP</id>
           </State>
+          <State>
+            <id>Spelling</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PhpCSValidationInspection</id>
+            <id>Spelling</id>
           </State>
         </selected-state>
       </profile-state>
