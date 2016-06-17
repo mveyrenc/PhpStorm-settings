@@ -2,6 +2,7 @@
   <component name="CodeStyleSettingsManager">
     <option name="PER_PROJECT_SETTINGS">
       <value>
+        <option name="RIGHT_MARGIN" value="200" />
         <PHPCodeStyleSettings>
           <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
           <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -14,6 +15,9 @@
           <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
           <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
         </PHPCodeStyleSettings>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
         <codeStyleSettings language="PHP">
           <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
           <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
