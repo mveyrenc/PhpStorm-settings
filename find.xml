@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Behavior/StructureTrait.php'" />
-    <option name="defaultScopeName" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Behavior/StructureTrait.php'" />
-    <option name="SEARCH_SCOPE" value="File '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Behavior/StructureTrait.php'" />
+    <option name="customScope" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Controller'" />
+    <option name="defaultScopeName" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Controller'" />
+    <option name="SEARCH_SCOPE" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/FrontBundle/Controller'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
       <mask>*.properties</mask>
