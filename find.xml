@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/data/sources/FeuVert/fve-management/src/FeuVert/Core/ClientBundle/Form/UserExtranetType.php'" />
-    <option name="defaultScopeName" value="File '/data/sources/FeuVert/fve-management/src/FeuVert/Core/ClientBundle/Form/UserExtranetType.php'" />
+    <option name="customScope" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Resources/views/Dev/testApiPresence.html.twig'" />
+    <option name="defaultScopeName" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Resources/views/Dev/testApiPresence.html.twig'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/data/sources/FeuVert/fve-management/src/FeuVert/Core/ClientBundle/Form/UserExtranetType.php'" />
+    <option name="SEARCH_SCOPE" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Resources/views/Dev/testApiPresence.html.twig'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
       <mask>*.properties</mask>
