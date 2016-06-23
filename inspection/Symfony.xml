@@ -5,7 +5,7 @@
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ImplicitMagicMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="MessDetectorValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="CODESIZE" value="true" />
     <option name="CONTROVERSIAL" value="true" />
     <option name="DESIGN" value="true" />
