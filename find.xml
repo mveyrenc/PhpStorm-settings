@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Controller/ApiTaskController.php'" />
     <option name="defaultScopeName" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Controller/ApiTaskController.php'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '/data/sources/FeuVert/planning/src/FeuVert/AgendaBundle/Controller/ApiTaskController.php'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
