@@ -3,6 +3,7 @@
   <inspection_tool class="AlterInForeachInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Annotator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ImplicitMagicMethodCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InheritDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />

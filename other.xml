@@ -77,6 +77,9 @@
             <id>GeneralPHP</id>
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
           <State>
@@ -118,7 +121,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Spelling</id>
+            <id>HtmlUnknownTarget</id>
           </State>
         </selected-state>
       </profile-state>
