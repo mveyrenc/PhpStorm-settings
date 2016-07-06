@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle'" />
     <option name="defaultScopeName" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AppBundle'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
