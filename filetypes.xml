@@ -54,6 +54,7 @@
       <mapping ext="cpy" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext="gnumakefile" type="textmate" />
+      <mapping ext="re" type="textmate" />
       <mapping ext="rb" type="textmate" />
       <mapping ext="prawn" type="textmate" />
       <mapping ext="cgi" type="textmate" />
