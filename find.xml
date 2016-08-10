@@ -3,7 +3,9 @@
     <option name="customScope" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AdminBundle'" />
     <option name="defaultScopeName" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AdminBundle'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle/AdminBundle'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
