@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38a6d24b-03e2-4ef9-ade8-2d20b16c8e62" name="ATIH - piramig" url="http://piramig-atih-front.docker">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
