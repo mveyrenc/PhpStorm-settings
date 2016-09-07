@@ -4,6 +4,9 @@
       <webServer id="38a6d24b-03e2-4ef9-ade8-2d20b16c8e62" name="ATIH - piramig" url="http://piramig-atih-front.docker">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="73ef96ba-23a2-4836-90fc-183bff2454d0" name="piramigv1-atih-front.docker" url="http://piramigv1-atih-front.docker">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
