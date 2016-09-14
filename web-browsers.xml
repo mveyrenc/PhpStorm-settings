@@ -17,5 +17,11 @@
         <user-data-dir>$USER_HOME$/.config/google-chrome-feuvert-planning</user-data-dir>
       </settings>
     </browser>
+    <browser id="b6b0c559-b339-4ce7-add5-9ca57f65ac6c" name="Chrome Feu Vert - Management" family="CHROME">
+      <settings>
+        <command-line-options>--user-data-dir=/home/mveyrenc/.config/google-chrome-feuvert-management</command-line-options>
+        <user-data-dir>$USER_HOME$/.config/google-chrome-feuvert-planning</user-data-dir>
+      </settings>
+    </browser>
   </component>
 </application>
