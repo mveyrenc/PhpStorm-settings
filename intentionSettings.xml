@@ -3,5 +3,6 @@
     <ignoreAction name="PHP/Generate PHPDoc for function" />
     <ignoreAction name="PHP/Import class" />
     <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Symfony2MethodCreateService" />
   </component>
 </application>
