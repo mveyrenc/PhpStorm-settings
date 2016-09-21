@@ -122,6 +122,6 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="PhpRefactoringSettings">
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
   </component>
 </application>
