@@ -1,5 +1,8 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
+    <notification groupId="PHP External Quality Tools" shouldLog="false" />
+    <notification groupId="PHP Interpreters" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
