@@ -4,5 +4,7 @@
     <ignoreAction name="PHP/Import class" />
     <ignoreAction name="PHP/Add PHPDoc comment" />
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
+    <ignoreAction name="PHP/Surround with '!empty'" />
+    <ignoreAction name="PHP/Surround with 'isset'" />
   </component>
 </application>
