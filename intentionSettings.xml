@@ -6,5 +6,6 @@
     <ignoreAction name="PHP/Symfony2MethodCreateService" />
     <ignoreAction name="PHP/Surround with '!empty'" />
     <ignoreAction name="PHP/Surround with 'isset'" />
+    <ignoreAction name="PHP/Flip binary expression" />
   </component>
 </application>
