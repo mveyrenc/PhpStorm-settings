@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/data/sources/ATIH/piramig/src/AppBundle/Security'" />
-    <option name="defaultScopeName" value="Directory '/data/sources/ATIH/piramig/src/AppBundle/Security'" />
+    <option name="customScope" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle'" />
+    <option name="defaultScopeName" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/data/sources/ATIH/piramig/src/AppBundle/Security'" />
+    <option name="SEARCH_SCOPE" value="Directory '/data/sources/ATIH/tdb-esms/src/Atih/TdbEsms/Bundle'" />
     <option name="FILE_MASK" value="!*.csv" />
     <recentFileMasks>
       <mask>*.properties</mask>
