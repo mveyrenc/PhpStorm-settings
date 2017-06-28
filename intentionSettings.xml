@@ -7,5 +7,6 @@
     <ignoreAction name="PHP/Surround with '!empty'" />
     <ignoreAction name="PHP/Surround with 'isset'" />
     <ignoreAction name="PHP/Flip binary expression" />
+    <ignoreAction name="PHP/Swap call arguments" />
   </component>
 </application>
