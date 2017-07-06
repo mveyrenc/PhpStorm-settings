@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.do?idUser=127173" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="xt" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
