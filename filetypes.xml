@@ -16,22 +16,23 @@
       <mapping pattern="rake" type="textmate" />
       <mapping pattern="Capfile" type="textmate" />
       <mapping pattern="makefile" type="textmate" />
+      <mapping pattern="sconstruct" type="textmate" />
       <mapping pattern="Makefile" type="textmate" />
       <mapping pattern="Hobofile" type="textmate" />
       <mapping pattern="Puppetfile" type="textmate" />
-      <mapping pattern="fcgi" type="textmate" />
+      <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="SConscript" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
       <mapping pattern="html.erb" type="textmate" />
-      <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
       <mapping pattern="erb" type="textmate" />
+      <mapping pattern="Guardfile" type="textmate" />
       <mapping pattern="cgi" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
       <mapping pattern="Rantfile" type="textmate" />
       <mapping pattern="rjs" type="textmate" />
       <mapping pattern="irbrc" type="textmate" />
-      <mapping pattern="cpy" type="textmate" />
       <mapping pattern="ru" type="textmate" />
       <mapping pattern="re" type="textmate" />
       <mapping pattern="rhtml" type="textmate" />
@@ -39,12 +40,11 @@
       <mapping pattern="gypi" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="Cheffile" type="textmate" />
-      <mapping pattern="sconstruct" type="textmate" />
       <mapping pattern="Thorfile" type="textmate" />
       <mapping pattern="py" type="textmate" />
       <mapping pattern="Vagrantfile" type="textmate" />
       <mapping pattern="Appraisals" type="textmate" />
-      <mapping pattern="Guardfile" type="textmate" />
+      <mapping pattern="cpy" type="textmate" />
       <mapping pattern="rbx" type="textmate" />
       <mapping pattern="OCamlMakefile" type="textmate" />
       <mapping pattern="rpy" type="textmate" />
@@ -55,40 +55,30 @@
       <mapping pattern="GNUmakefile" type="textmate" />
       <mapping pattern="pyw" type="textmate" />
       <mapping ext="rpy" type="textmate" />
+      <mapping ext="sconscript" type="textmate" />
       <mapping ext="pyw" type="textmate" />
-      <mapping ext="rbx" type="textmate" />
+      <mapping ext="re" type="textmate" />
       <mapping ext="sconstruct" type="textmate" />
       <mapping ext="rhtml" type="textmate" />
-      <mapping ext="cheffile" type="textmate" />
       <mapping ext="rjs" type="textmate" />
-      <mapping ext="berksfile" type="textmate" />
       <mapping ext="cpy" type="textmate" />
-      <mapping ext="re" type="textmate" />
+      <mapping ext="gnumakefile" type="textmate" />
       <mapping ext="rb" type="textmate" />
       <mapping ext="prawn" type="textmate" />
       <mapping ext="cgi" type="textmate" />
       <mapping ext="py" type="textmate" />
       <mapping ext="rake" type="textmate" />
+      <mapping ext="ocamlmakefile" type="textmate" />
+      <mapping ext="rbx" type="textmate" />
       <mapping ext="gypi" type="textmate" />
       <mapping ext="ru" type="textmate" />
       <mapping ext="html.erb" type="textmate" />
-      <mapping ext="berksfile.lock" type="textmate" />
-      <mapping ext="hobofile" type="textmate" />
       <mapping ext="erb" type="textmate" />
-      <mapping ext="gemfile" type="textmate" />
       <mapping ext="irbrc" type="textmate" />
-      <mapping ext="capfile" type="textmate" />
-      <mapping ext="thorfile" type="textmate" />
-      <mapping ext="vagrantfile" type="textmate" />
-      <mapping ext="appraisals" type="textmate" />
-      <mapping ext="rakefile" type="textmate" />
       <mapping ext="fcgi" type="textmate" />
-      <mapping ext="guardfile" type="textmate" />
-      <mapping ext="puppetfile" type="textmate" />
       <mapping ext="gemspec" type="textmate" />
       <mapping ext="makefile" type="textmate" />
       <mapping ext="gyp" type="textmate" />
-      <mapping ext="rantfile" type="textmate" />
     </extensionMap>
   </component>
 </application>
